@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="txtText">TextView</string>
+    <string name="txtEdit">EditView</string>
+    <string name="txtBtn">Button</string>
+
+</resources>
